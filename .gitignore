@@ -1,0 +1,14 @@
+# Environments
+Include/
+Lib/
+Scripts/
+.venv/
+venv/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyo
+
+# Models and Data depending on preference, you may want to ignore these if they are large
+# res10_300x300_ssd_iter_140000.caffemodel
+# deploy.prototxt
